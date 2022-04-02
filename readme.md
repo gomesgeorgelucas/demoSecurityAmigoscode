@@ -1,6 +1,7 @@
 ### Basic Auth
 
 Base64 Header Auth
+User name and password for every single request
 
 **HEADER**
 
